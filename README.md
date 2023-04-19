@@ -1,1 +1,3 @@
-# AI-Drawing-Machine
+# AI Drawing Machine
+
+Code for some sort of Camera -> GPU -> Printer type of contraption...
